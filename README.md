@@ -1,6 +1,6 @@
 # Sorting Application
 
-This is a javascript/react.js application that helps you to sort values using some of the most famous Algorithms
+This is a javascript/react.js application that helps you sort values using some of the most famous Algorithms
 
 ###### The Used Algorithms :
   - [x] Merge Sort Algorithm
