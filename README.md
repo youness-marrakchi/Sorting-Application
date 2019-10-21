@@ -1,3 +1,16 @@
+# Sorting Application
+
+This is a javascript/react.js application that helps you to sort values using some of the most famous Algorithms
+
+###### The Used Algorithms :
+  - [x] Merge Sort Algorithm
+  - [ ] Bubble Sort Algorithm    |    *in the works*
+  - [ ] QuickSort Algorithm     |    *comming after Bubble Sort*
+  
+| Here's the live version : https://youness-marrakchi.github.io/Sorting-Application/
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
